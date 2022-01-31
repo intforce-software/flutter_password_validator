@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_password_validator/flutter_pw_validator.dart';
+import 'package:flutter_password_validator/flutter_Password_validator.dart';
 
 void main() {
   runApp(MyApp());

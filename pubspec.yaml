@@ -1,7 +1,7 @@
 name: flutter_password_validator
 description: Flutter Password Validator package helps you to validate sign in user-entered password with your rules.
 version: 1.0.1
-homepage: https://github.com/ArefMozafari/flutter_Password_validator
+homepage: https://github.com/intforce-software/flutter_password_validator
 maintainer: Intforce Software (@ushah-intforce)
 
 environment:
