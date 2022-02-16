@@ -61,11 +61,11 @@ new FlutterPwValidator(
 | height | Takes the widget height | null | Yes |
 | onSuccess | A void callback function that runs when the password is matched with the condition(s) | null | Yes |
 | onFail | A void callback that gets called everytime the password doesn't match with the condition(s) | null | No |
-| defaultColor | Takes default state color of the widget | ![#FFd3d3d3](https://via.placeholder.com/15/FFd3d3d3/000000?text=+) ```Color(0xFFd3d3d3)``` | No |
-| barOneColor | Takes barOne state color of the widget | ![#FFC81919](https://via.placeholder.com/15/FFC81919/000000?text=+) ```Color(0xFFC81919)``` | No |
-| barTwoColor | Takes barTwo state color of the widget | ![#FFFFAC1D](https://via.placeholder.com/15/FFFFAC1D/000000?text=+) ```Color(0xFFFFAC1D)``` | No |
-| barThreeColor | Takes barThree state color of the widget | ![#FFA6C061](https://via.placeholder.com/15/FFA6C061/000000?text=+) ```Color(0xFFA6C061)``` | No | 
-| barFourColor | Takes barFour state color of the widget | ![#FF1AAF09](https://via.placeholder.com/15/FF1AAF09/000000?text=+) ```Color(0xFF1AAF09)``` | No |
+| defaultColor | Takes default state color of the widget | ![#d3d3d3](https://via.placeholder.com/15/d3d3d3/000000?text=+) ```Color(0xFFd3d3d3)``` | No |
+| barOneColor | Takes barOne state color of the widget | ![#C81919](https://via.placeholder.com/15/C81919/000000?text=+) ```Color(0xFFC81919)``` | No |
+| barTwoColor | Takes barTwo state color of the widget | ![#FFAC1D](https://via.placeholder.com/15/FFAC1D/000000?text=+) ```Color(0xFFFFAC1D)``` | No |
+| barThreeColor | Takes barThree state color of the widget | ![#A6C061](https://via.placeholder.com/15/A6C061/000000?text=+) ```Color(0xFFA6C061)``` | No | 
+| barFourColor | Takes barFour state color of the widget | ![#1AAF09](https://via.placeholder.com/15/1AAF09/000000?text=+) ```Color(0xFF1AAF09)``` | No |
 | strings | A class implementing the default ``` FlutterPasswordValidatorStrings ``` | English   ```FlutterPasswordValidatorStrings``` | No |
 
 
