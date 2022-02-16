@@ -50,6 +50,9 @@ new FlutterPwValidator(
 ```
 
 **4. Properties**
+Below are additional properties which you can set/customize in ```new FlutterPwValidator```. 
+
+
 | Property | Description | Default Value | Required |
 | ------------- | ------------- | ------------- | ------------- |
 | controller | Takes your password TextField controller | null | Yes |
