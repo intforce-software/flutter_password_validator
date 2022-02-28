@@ -1,6 +1,8 @@
 # flutter_password_validator
 Flutter Password Validator package helps you to validate password with customized rules.
 
+![alt text](https://github.com/intforce-software/flutter_password_validator/blob/main/Flutter%20Password%20validator.gif?raw=true)
+
 # How to Use
 **1. Add Package to pubspec.yaml file**
 
